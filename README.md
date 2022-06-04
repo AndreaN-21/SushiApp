@@ -1,1 +1,3 @@
 # SushiApp
+
+CIAO, FACCIAMO SOLDI
